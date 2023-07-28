@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+.gradient-text {
+  background: linear-gradient(140deg, #9388fe, #d8d6e7);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.h-508 {
+  height: 720px;
+}
